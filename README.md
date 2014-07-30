@@ -1,0 +1,4 @@
+jingo-test
+==========
+
+Jingo tests
